@@ -1,0 +1,16 @@
+C:\NavegacionDemo\NavegacionDemo\bin\Debug\netstandard2.0\NavegacionDemo.deps.json
+C:\NavegacionDemo\NavegacionDemo\bin\Debug\netstandard2.0\NavegacionDemo.dll
+C:\NavegacionDemo\NavegacionDemo\bin\Debug\netstandard2.0\ref\NavegacionDemo.dll
+C:\NavegacionDemo\NavegacionDemo\bin\Debug\netstandard2.0\NavegacionDemo.pdb
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.csproj.AssemblyReference.cache
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.AssemblyInfoInputs.cache
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.AssemblyInfo.cs
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.csproj.CoreCompileInputs.cache
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.dll
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\ref\NavegacionDemo.dll
+C:\NavegacionDemo\NavegacionDemo\obj\Debug\netstandard2.0\NavegacionDemo.pdb
